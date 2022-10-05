@@ -1,0 +1,18 @@
+.marginNav {
+    margin-left: 35%;    
+}
+.marginTitle {
+    margin-left: 1%;
+}
+.colorNav {
+    background-color: #6C757D;
+    color: white;
+} 
+a {
+    color: white;
+}
+.search {
+    border-radius: 7px;
+    border-color: transparent;
+    height: 36px;    
+}
