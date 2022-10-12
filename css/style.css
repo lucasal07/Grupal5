@@ -17,3 +17,12 @@ a {
     border-color: transparent;
     height: 36px;   
  }
+
+ aside,section{
+    display: inline-block;
+    
+ }
+
+ aside, div{
+    
+ }
