@@ -18,11 +18,24 @@ a {
     height: 36px;   
  }
 
+aside{
+margin-top: 2% ;
+   margin-left: 10%;
+}
+
+section{
+    margin-top: 2% ;
+       margin-left: 20%;
+    }
+    
+
+
  aside,section{
     display: inline-block;
     
  }
 
- aside, div{
-    
+ .parrafo{
+    margin-left: 10%;
+    margin-right: 10%;
  }
