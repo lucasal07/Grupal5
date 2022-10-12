@@ -30,7 +30,7 @@ section{
     
 
 
- aside,section{
+ aside,.parrafo{
     display: inline-block;
     
  }
@@ -38,4 +38,9 @@ section{
  .parrafo{
     margin-left: 10%;
     margin-right: 10%;
+ }
+
+ .op{
+    border: 10px;
+    border-color: black;
  }
