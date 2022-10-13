@@ -36,11 +36,27 @@ section{
  }
 
  .parrafo{
-    margin-left: 10%;
-    margin-right: 10%;
+    padding: 5px;
+    column-count: 3;
+    column-gap: 20px;
+   background-color: whitesmoke;
+   width: 60%;
+
  }
 
- .op{
-    border: 10px;
-    border-color: black;
- }
+.options {
+  height: 60px;
+  width: 250px;
+  padding: 15px;
+  border-radius: 4px
+  
+}
+
+a {
+   color: black;
+}
+
+.carouselExampleSlidesOnly {
+   border: red;
+   border-color: red;
+}
