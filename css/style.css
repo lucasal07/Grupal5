@@ -37,6 +37,11 @@ section{
 
  .parrafo{
     padding: 5px;
+    column-count: 3;
+    column-gap: 20px;
+   background-color: whitesmoke;
+   width: 60%;
+
  }
 
 .options {
@@ -49,4 +54,8 @@ section{
 
 a {
    color: black;
+}
+
+#carouselExampleSlidesOnly {
+   border: red;
 }
