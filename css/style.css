@@ -36,12 +36,7 @@ section{
  }
 
  .parrafo{
-    padding: 5px;
-    column-count: 3;
-    column-gap: 20px;
    background-color: whitesmoke;
-   width: 60%;
-
  }
 
 .options {
@@ -56,7 +51,17 @@ a {
    color: black;
 }
 
-.carouselExampleSlidesOnly {
-   border: red;
+.left{
+   float: left;
+   padding: 1%;
+}
+.bordeC {
+   border-style: solid;
    border-color: red;
+   border-width: 3px;
+   width: fit-content;
+}
+
+.BackGroundColor {
+   background-color: whitesmoke;
 }
